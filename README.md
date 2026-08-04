@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Anas-Ghayas)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anasghayas2004@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anasghayas_)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/anasghayas/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/anasghayas_/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anasghayas)
 
 </div>
@@ -26,7 +26,7 @@ I'm a Mathematics & Computing student passionate about building full-stack web a
 - 💻 Full Stack Developer — React, Next.js, Node.js, Express
 - 🛠️ Experienced with cloud platforms like **AWS**, **Firebase**, **Vercel** & **Netlify**
 - 🐳 Comfortable with **Docker**, **Git**, **Nginx** & DevOps workflows
-- 🧠 Passionate about problem-solving & competitive programming on [LeetCode](https://leetcode.com/u/anasghayas/)
+- 🧠 Passionate about problem-solving & competitive programming on [LeetCode](https://leetcode.com/u/anasghayas_/)
 - 🌱 Currently exploring **AI/ML** and advanced system design
 - 📫 Reach me at **anasghayas2004@gmail.com**
 
@@ -84,8 +84,8 @@ I'm a Mathematics & Computing student passionate about building full-stack web a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anasghayas&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&ring_color=58A6FF" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasghayas&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=58A6FF&text_color=C9D1D9" width="41%" alt="Top Languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anasghayas&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&ring_color=58A6FF" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anasghayas&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=58A6FF&text_color=C9D1D9" width="41%" alt="Top Languages" />
 
 <br/>
 
@@ -137,7 +137,7 @@ I'm a Mathematics & Computing student passionate about building full-stack web a
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Anas-Ghayas)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anasghayas2004@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anasghayas_)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/anasghayas/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/anasghayas_/)
 
 <br/>
 
