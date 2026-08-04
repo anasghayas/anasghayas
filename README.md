@@ -84,12 +84,12 @@ I'm a Mathematics & Computing student passionate about building full-stack web a
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anasghayas&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&ring_color=58A6FF" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anasghayas&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=58A6FF&text_color=C9D1D9" width="41%" alt="Top Languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anasghayas&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&ring_color=58A6FF" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anasghayas&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=58A6FF&text_color=C9D1D9" width="41%" alt="Top Languages" />
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=anasghayas&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" width="60%" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=anasghayas&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=1F6FEB" width="60%" alt="GitHub Streak" />
 
 </div>
 
@@ -123,7 +123,7 @@ I'm a Mathematics & Computing student passionate about building full-stack web a
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=anasghayas&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7)](https://github.com/anasghayas)
+[![trophy](https://github-profile-trophy.vercel.app/?username=anasghayas&theme=onestar&no-frame=true&no-bg=false&margin-w=10&column=7&title=Stars,Commits,Followers,Repositories,PullRequest,Issues)](https://github.com/anasghayas)
 
 </div>
 
