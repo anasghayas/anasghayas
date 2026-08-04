@@ -89,7 +89,7 @@ I'm a Mathematics & Computing student passionate about building full-stack web a
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=anasghayas&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=1F6FEB" width="60%" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats-eight-alpha.vercel.app/?user=anasghayas&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=1F6FEB" width="60%" alt="GitHub Streak" />
 
 </div>
 
@@ -123,7 +123,7 @@ I'm a Mathematics & Computing student passionate about building full-stack web a
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=anasghayas&theme=onestar&no-frame=true&no-bg=false&margin-w=10&column=7&title=Stars,Commits,Followers,Repositories,PullRequest,Issues)](https://github.com/anasghayas)
+[![trophy](https://github-trophies.vercel.app/?username=anasghayas&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7)](https://github.com/anasghayas)
 
 </div>
 
