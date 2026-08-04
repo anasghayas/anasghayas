@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing Animation Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Hi%2C+I'm+Anas+Ghayas+%F0%9F%91%8B;Software+Developer;I+build%2C+I+learn%2C+I+ship+%F0%9F%9A%80)](https://github.com/anasghayas)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=150&lines=Hi%2C+I'm+Anas+Ghayas+%F0%9F%91%8B;Software+Developer;I+build%2C+I+learn%2C+I+ship+%F0%9F%9A%80)](https://github.com/anasghayas)
 
 <!-- Subtitle -->
 **Mathematics & Computing Student · Full Stack Developer · Open Source Enthusiast**
